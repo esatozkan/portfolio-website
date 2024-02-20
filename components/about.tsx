@@ -25,12 +25,12 @@ export default function About() {
         <span className="font-medium"> full-stack development</span>. My
         favorite part of programming is the problem-solving aspect. I love the
         feeling of finally figuring out a solution to a problem. My core stack
-        is React, Next Js, Flutter and Firebase . I'm also familiar with Sql,
-        C++ and Typescript. I'm always looking to learn new technologies. I'm
+        is React, Next Js, Flutter and Firebase . I am also familiar with Sql,
+        C++ and Typescript. I am always looking to learn new technologies. I am
         currently looking for a full-time position as a software developer.
         <p>
-          When I'm not coding, I enjoy playing video games, watching movies, and
-          doing sports as rowing. I also enjoy learning new things. I'm
+          When I am not coding, I enjoy playing video games, watching movies, and
+          doing sports as rowing. I also enjoy learning new things. I am
           currently learning about history and archeology.
         </p>
       </span>
